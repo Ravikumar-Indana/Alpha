@@ -1,8 +1,0 @@
-django
-djangorestframework
-numpy
-pandas
-streamlist
-flake8
-black
-pytest
